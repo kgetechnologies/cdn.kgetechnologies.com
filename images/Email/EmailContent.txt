@@ -1,0 +1,264 @@
+<!--[if (mso 16)]>
+    <style type="text/css">
+    a {text-decoration: none;}
+    </style>
+    <![endif]--><!--[if gte mso 9]><style>sup { font-size: 100% !important; }</style><![endif]--><!--[if gte mso 9]>
+<xml>
+    <o:OfficeDocumentSettings>
+    <o:AllowPNG></o:AllowPNG>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+</xml>
+<![endif]--><!--[if !mso]><!-- --><!--<![endif]--><!--[if gte mso 9]>
+			<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+				<v:fill type="tile" color="#f1f1f1"></v:fill>
+			</v:background>
+		<![endif]-->
+<table cellpadding="0" cellspacing="0" class="es-wrapper" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="vertical-align:top">
+			<table align="center" cellpadding="0" cellspacing="0" class="es-header esd-header-popover">
+				<tbody>
+					<tr>
+						<td>
+						<table align="center" cellpadding="0" cellspacing="0" class="es-header-body" style="background-color:#ffffff; width:590px">
+							<tbody>
+								<tr>
+									<td><!--[if mso]><table width="570" cellpadding="0" cellspacing="0"><tr><td width="275" valign="top"><![endif]-->
+									<table align="left" cellpadding="0" cellspacing="0" class="es-left">
+										<tbody>
+											<tr>
+												<td>
+												<table cellpadding="0" cellspacing="0" style="width:100%">
+													<tbody>
+														<tr>
+															<td><a href="https://www.kgetechnologies.com" target="_blank"><img alt="KGE Technologies Pvt Ltd" class="adapt-img" src="https://cdn.kgetechnologies.com/images/logo.jpeg" style="display:block; height:102px" title="KGE Technologies Pvt Ltd" /></a></td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									<!--[if mso]></td><td width="20"></td><td width="275" valign="top"><![endif]-->
+
+									<table align="right" cellpadding="0" cellspacing="0" class="es-right">
+										<tbody>
+											<tr>
+												<td>
+												<table cellpadding="0" cellspacing="0" style="width:100%">
+													<tbody>
+														<tr>
+															<td>
+															<p><strong>KGE TECHNOLOGIES PRIVATE LIMITED</strong><br />
+															Guduvanchery, Chennai -603202<br />
+															Tamil Nadu<br />
+															https://www.kgetechnologies.com<br />
+															hr@kgetechnologies.com</p>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									<!--[if mso]></td></tr></table><![endif]--></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table align="center" cellpadding="0" cellspacing="0" class="es-content">
+				<tbody>
+					<tr>
+						<td>
+						<table align="center" cellpadding="0" cellspacing="0" class="es-content-body" style="width:590px">
+							<tbody>
+								<tr>
+									<td>
+									<table cellpadding="0" cellspacing="0" style="width:100%">
+										<tbody>
+											<tr>
+												<td style="vertical-align:top">
+												<table cellpadding="0" cellspacing="0" style="width:100%">
+													<tbody>
+														<tr>
+															<td>
+															<h2>YOU&#39;VE COLLEGE STUDENTS ARE INVITED</h2>
+															</td>
+														</tr>
+														<tr>
+															<td>
+															<p>Hello,<br />
+															Greetings from <strong>KGE Technologies Pvt Ltd</strong>, Nasscom&nbsp;Member to $CollegeName$</p>
+															</td>
+														</tr>
+														<tr>
+															<td>
+															<p>Every year we roll out internship opportunities for college students to be part of real-time project work during their college time.<br />
+															<strong>KGE Technologies Pvt Ltd</strong> decided to roll out internship opportunities to college students in batches in an online/offline internship program for the Year 2023.</p>
+
+															<p>We would assign candidates the Real time project work whether it be Software, Testing, or management-related activities.</p>
+
+															<p>Candidates who are ready to contribute to real-time project cases&nbsp;are invited to signup&nbsp;to take forward on allocating internship opportunities for 1-6 Months time frame, it is mandatory for candidates to contribute on daily basis with minimum hrs spent as per the company norms.</p>
+
+															<p>You can ask the candidates to sign up at <a href="https://www.kgetechnologies.com/internship?ref=$CollegeName$" target="_blank">https://www.kgetechnologies.com/internship</a> for the below Technology/domain</p>
+															</td>
+														</tr>
+														<tr>
+															<td>
+															<ul>
+																<li>UX Designer using Photoshop/ Corel Draw</li>
+																<li>UI Designer to build creative responsive UI pages</li>
+																<li>DotNet MVC using C#</li>
+																<li>Php, Laravel, Python, node</li>
+																<li>Digital Marketing</li>
+																<li>Content Author&#39;s</li>
+																<li>Digital Learning Author</li>
+																<li>Content&nbsp;Editor</li>
+																<li>Mobile Apps</li>
+																<li>Social Media Influencer</li>
+																<li>Cloud Platform</li>
+																<li>HR Management</li>
+																<li>Finance Management</li>
+																<li>Marketing Management</li>
+																<li>and many More.</li>
+															</ul>
+															</td>
+														</tr>
+														<tr>
+															<td>
+															<p>The attached banner helps to understand more information about the internship area and request you to share it with your college staff and students.<br />
+															Eagerly waiting for candidates from your organization to signup and work on Real time project works.<br />
+															This email is sent to $CollegeName$ purposefully to share about the internship Opportunity in KGE Technologies Pvt Ltd</p>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table align="center" cellpadding="0" cellspacing="0" class="es-content">
+				<tbody>
+					<tr>
+						<td>
+						<table align="center" cellpadding="0" cellspacing="0" class="es-content-body" style="width:590px">
+							<tbody>
+								<tr>
+									<td style="background-color:#efefef"><!--[if mso]><table width="550" cellpadding="0" cellspacing="0"><tr><td width="175" valign="top"><![endif]-->
+									<table align="left" cellpadding="0" cellspacing="0" class="es-left">
+										<tbody>
+											<tr>
+												<td style="vertical-align:top">
+												<table cellpadding="0" cellspacing="0" style="width:100%">
+													<tbody>
+														<tr>
+															<td><a href="https://www.kgetechnologies.com" target="_blank"><img alt="Nasscom Member" class="adapt-img" src="https://cdn.kgetechnologies.com/images/nassccom-logo.png" style="display:block; width:175px" title="Nasscom Member" /></a></td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									<!--[if mso]></td><td width="20"></td><td width="355" valign="top"><![endif]-->
+
+									<table align="right" cellpadding="0" cellspacing="0">
+										<tbody>
+											<tr>
+												<td>
+												<table cellpadding="0" cellspacing="0" style="width:100%">
+													<tbody>
+														<tr>
+															<td>
+															<table cellpadding="0" cellspacing="0" class="es-social es-table-not-adapt">
+																<tbody>
+																	<tr>
+																		<td style="vertical-align:top"><a href="" target="_blank"><img alt="Fb" src="https://tyhro.stripocdn.email/content/assets/img/social-icons/logo-black/facebook-logo-black.png" style="width:32px" title="Facebook" /></a></td>
+																		<td style="vertical-align:top"><a href="" target="_blank"><img alt="Tw" src="https://tyhro.stripocdn.email/content/assets/img/social-icons/logo-black/twitter-logo-black.png" style="width:32px" title="Twitter" /></a></td>
+																		<td style="vertical-align:top"><a href="" target="_blank"><img alt="Inst" src="https://tyhro.stripocdn.email/content/assets/img/social-icons/logo-black/instagram-logo-black.png" style="width:32px" title="Instagram" /></a></td>
+																		<td style="vertical-align:top"><a href="" target="_blank"><img alt="Yt" src="https://tyhro.stripocdn.email/content/assets/img/social-icons/logo-black/youtube-logo-black.png" style="width:32px" title="Youtube" /></a></td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									<!--[if mso]></td></tr></table><![endif]--></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table align="center" cellpadding="0" cellspacing="0" class="es-content esd-footer-popover">
+				<tbody>
+					<tr>
+					</tr>
+					<tr>
+						<td>
+						<table align="center" cellpadding="0" cellspacing="0" class="es-footer-body" style="background-color:#ffffff; width:590px">
+							<tbody>
+								<tr>
+									<td>
+									<table cellpadding="0" cellspacing="0" style="width:100%">
+										<tbody>
+											<tr>
+												<td style="vertical-align:top">
+												<table cellpadding="0" cellspacing="0" style="width:100%">
+													<tbody>
+														<tr>
+															<td>
+															<p>KGE TECHNOLOGIES PRIVATE LIMITED</p>
+															</td>
+														</tr>
+														<tr>
+															<td>
+															<p>This email was sent to you from hr@kgetechnologies.com</p>
+															</td>
+														</tr>
+														<tr>
+															<td>
+															<p>Copyright &copy; 2013-2023&nbsp;<strong>KGE TECHNOLOGIES PVT LTD</strong>, All Rights Reserved.</p>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
